@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![snake gif](https://github.com/dtischencko/dtischencko/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dtischencko/dtischencko/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--
 **dtischencko/dtischencko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
